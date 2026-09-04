@@ -37,6 +37,31 @@ I enjoy building projects from the initial idea through UI, architecture and imp
 
 # 🚀 Featured Projects
 
+## Project previews
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Baitermin/LevelRep-Showcase">
+        <img src="https://raw.githubusercontent.com/Baitermin/LevelRep-Showcase/Master/assets/levelrep-hero.svg" alt="LevelRep preview" />
+      </a>
+      <h3>🏋️ LevelRep</h3>
+      <p>AI-assisted fitness app for workout planning, onboarding, progression and future gamification.</p>
+      <p><a href="https://github.com/Baitermin/LevelRep-Showcase"><strong>View showcase →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Baitermin/Baitermin-Mission-Control-Showcase">
+        <img src="https://raw.githubusercontent.com/Baitermin/Baitermin-Mission-Control-Showcase/Master/assets/command-deck-overview.svg" alt="Baitermin Mission Control preview" />
+      </a>
+      <h3>🧠 Baitermin Mission Control</h3>
+      <p>Visual command deck for AI-assisted content workflows, agents, review queues and project operations.</p>
+      <p><a href="https://github.com/Baitermin/Baitermin-Mission-Control-Showcase"><strong>View showcase →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏋️ [LevelRep](https://github.com/Baitermin/LevelRep-Showcase)
 
 ![Repository](https://img.shields.io/badge/Source-Private-6e7681?style=flat-square&logo=github&logoColor=white)
