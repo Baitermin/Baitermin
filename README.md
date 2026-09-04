@@ -1,37 +1,74 @@
-# Hey there 👋! I'm Benjamin Hansen (a.k.a. Baitermin)
-  
-## Currently working on
+<h1 align="center">Hi, I'm Benjamin Hansen 👋</h1>
 
-- NONE
-
-## Social
-  <a href="https://discord.com/users/250281859294953483" target="_blank"><img alt="BenjiCS" src="https://img.shields.io/badge/-Account-4e5d94?style=for-the-badge&logo=Discord&logoColor=white"></a>
+<p align="center">
+  Web Developer · React & TypeScript · Building practical products and polished user experiences
 </p>
 
-## Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord.JS-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BenjiCS&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
 
-## Misc
-![](https://komarev.com/ghpvc/?username=BenjiCS&style=for-the-badge)
+## About me
 
-## Stats
+I'm a web developer who enjoys turning ideas into useful, polished products. I mainly work with **React, TypeScript and JavaScript**, with experience across frontend development, APIs, databases and modern application tooling.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjiCS&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3)
-![Baltraz Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjiCS&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3)
+I care about clean interfaces, maintainable code and building things that are enjoyable to use — not just technically functional.
+
+* 🔨 Currently building **LevelRep**, an AI-assisted fitness app with workout planning, tracking and gamification.
+* 🤖 Working on **Baitermin Mission Control**, a React/TypeScript dashboard for AI-assisted content and workflow management.
+* 🎯 Interested in product development, AI integrations, automation and interactive web experiences.
+* 📚 Always improving my skills and experimenting with new technologies.
+
+## Tech stack
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+## Current projects
+
+### 🏋️ LevelRep
+
+An AI-assisted fitness app designed around personalized workout planning, progress tracking, badges, levels, streaks and friendly competition.
+
+**Tech:** React Native / Expo · TypeScript · Supabase · AI-assisted planning
+
+### 🧠 Baitermin Mission Control
+
+A visual mission-control style dashboard for managing AI-assisted content workflows, projects and specialist agents.
+
+**Tech:** React · TypeScript · Zustand · PixiJS · Vite
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BenjiCS&show_icons=true&hide_border=true&theme=transparent" alt="Benjamin's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjiCS&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building useful things, learning continuously, and improving one project at a time.</i>
+</p>
