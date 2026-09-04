@@ -37,27 +37,19 @@ I enjoy building projects from the initial idea through UI, architecture and imp
 
 # 🚀 Featured Projects
 
-## 🏋️ LevelRep
+## 🏋️ [LevelRep](https://github.com/Baitermin/LevelRep-Showcase)
 
-![Repository](https://img.shields.io/badge/Repository-Private-6e7681?style=flat-square&logo=github&logoColor=white)
+![Repository](https://img.shields.io/badge/Source-Private-6e7681?style=flat-square&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active_Development-f59e0b?style=flat-square)
+[![Showcase](https://img.shields.io/badge/Public_Showcase-View_Project-2ea44f?style=flat-square&logo=github)](https://github.com/Baitermin/LevelRep-Showcase)
 
-**AI-assisted fitness planning and workout tracking**
+**Cross-platform fitness app with adaptive training, progression and gamification**
 
-LevelRep is a mobile fitness application designed to make training more personalized and motivating.
+LevelRep is an iOS and Android fitness app built around the loop **Plan → Train → Measure → Adapt → Progress → Repeat**.
 
-The app combines traditional workout tracking with AI-assisted programming and a gamification system built around progression and competition.
+**Phase 1 — Foundation is complete.** The current app includes authentication, Google OAuth, a premium onboarding flow, profile/training settings, equipment selection, avatars and a secure Supabase/Postgres backend with Row Level Security.
 
-**Features include:**
-
-- AI-generated training programs
-- Personalized workout planning
-- Workout and progression tracking
-- Levels and XP
-- Badges and achievements
-- Streaks
-- Challenges between friends
-- User profiles and authentication
+**Planned next:** exercise library, workout logging, history and PRs, followed by adaptive training/AI, XP, levels, achievements, streaks, friends and challenges.
 
 **Tech**
 
@@ -65,27 +57,29 @@ The app combines traditional workout tracking with AI-assisted programming and a
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-18181B?style=flat-square)
 
 ---
 
-## 🧠 Baitermin Mission Control
+## 🧠 [Baitermin Mission Control](https://github.com/Baitermin/Baitermin-Mission-Control-Showcase)
 
-![Repository](https://img.shields.io/badge/Repository-Private-6e7681?style=flat-square&logo=github&logoColor=white)
+![Repository](https://img.shields.io/badge/Source-Private-6e7681?style=flat-square&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active_Development-f59e0b?style=flat-square)
+[![Showcase](https://img.shields.io/badge/Public_Showcase-View_Project-2ea44f?style=flat-square&logo=github)](https://github.com/Baitermin/Baitermin-Mission-Control-Showcase)
 
-**Visual command center for AI-assisted workflows**
+**Visual command center for multi-HQ AI content workflows**
 
-Baitermin Mission Control is a visual dashboard for organizing AI agents, content workflows and project activity through an interactive mission-control-style interface.
+Baitermin Mission Control is a sci-fi inspired interactive AI HQ where specialized agents operate inside a visual station rather than a conventional SaaS dashboard.
 
-The project combines traditional application architecture with a more visual and interactive approach to managing AI-assisted workflows.
+**Phase 1 is complete** with an interactive PixiJS station, pan/zoom, agent states and selection, a deterministic multi-stage mock mission, mission controls, analytics and visual polish. **Phase 2 is now in progress**, expanding the system toward reusable multi-HQ and durable mission architecture.
 
 **Tech**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-State_Management-orange?style=flat-square)
-![PixiJS](https://img.shields.io/badge/PixiJS-Canvas_Rendering-E91E63?style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-18181B?style=flat-square)
+![PixiJS](https://img.shields.io/badge/PixiJS-E91E63?style=flat-square)
 
 ---
 
@@ -112,6 +106,7 @@ The project combines traditional application architecture with a more visual and
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -120,18 +115,22 @@ The project combines traditional application architecture with a more visual and
 
 ### Libraries & Ecosystem
 
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-18181B?style=for-the-badge)
 ![PixiJS](https://img.shields.io/badge/PixiJS-E91E63?style=for-the-badge)
 
-### Tools
+### Tools & Quality
 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
