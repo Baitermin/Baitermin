@@ -37,36 +37,15 @@ I enjoy building projects from the initial idea through UI, architecture and imp
 
 # 🚀 Featured Projects
 
-## Project previews
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Baitermin/LevelRep-Showcase">
-        <img src="https://raw.githubusercontent.com/Baitermin/LevelRep-Showcase/Master/assets/levelrep-hero.svg" alt="LevelRep preview" />
-      </a>
-      <h3>🏋️ LevelRep</h3>
-      <p>AI-assisted fitness app for workout planning, onboarding, progression and future gamification.</p>
-      <p><a href="https://github.com/Baitermin/LevelRep-Showcase"><strong>View showcase →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Baitermin/Baitermin-Mission-Control-Showcase">
-        <img src="https://raw.githubusercontent.com/Baitermin/Baitermin-Mission-Control-Showcase/Master/assets/command-deck-overview.svg" alt="Baitermin Mission Control preview" />
-      </a>
-      <h3>🧠 Baitermin Mission Control</h3>
-      <p>Visual command deck for AI-assisted content workflows, agents, review queues and project operations.</p>
-      <p><a href="https://github.com/Baitermin/Baitermin-Mission-Control-Showcase"><strong>View showcase →</strong></a></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🏋️ [LevelRep](https://github.com/Baitermin/LevelRep-Showcase)
 
 ![Repository](https://img.shields.io/badge/Source-Private-6e7681?style=flat-square&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active_Development-f59e0b?style=flat-square)
 [![Showcase](https://img.shields.io/badge/Public_Showcase-View_Project-2ea44f?style=flat-square&logo=github)](https://github.com/Baitermin/LevelRep-Showcase)
+
+<a href="https://github.com/Baitermin/LevelRep-Showcase">
+  <img src="https://raw.githubusercontent.com/Baitermin/LevelRep-Showcase/Master/assets/levelrep-hero.svg" alt="LevelRep project preview" width="100%" />
+</a>
 
 **Cross-platform fitness app with adaptive training, progression and gamification**
 
@@ -75,6 +54,8 @@ LevelRep is an iOS and Android fitness app built around the loop **Plan → Trai
 **Phase 1 — Foundation is complete.** The current app includes authentication, Google OAuth, a premium onboarding flow, profile/training settings, equipment selection, avatars and a secure Supabase/Postgres backend with Row Level Security.
 
 **Planned next:** exercise library, workout logging, history and PRs, followed by adaptive training/AI, XP, levels, achievements, streaks, friends and challenges.
+
+[**View full showcase →**](https://github.com/Baitermin/LevelRep-Showcase)
 
 **Tech**
 
@@ -92,11 +73,17 @@ LevelRep is an iOS and Android fitness app built around the loop **Plan → Trai
 ![Status](https://img.shields.io/badge/Status-Active_Development-f59e0b?style=flat-square)
 [![Showcase](https://img.shields.io/badge/Public_Showcase-View_Project-2ea44f?style=flat-square&logo=github)](https://github.com/Baitermin/Baitermin-Mission-Control-Showcase)
 
+<a href="https://github.com/Baitermin/Baitermin-Mission-Control-Showcase">
+  <img src="https://raw.githubusercontent.com/Baitermin/Baitermin-Mission-Control-Showcase/Master/assets/command-deck-overview.svg" alt="Baitermin Mission Control project preview" width="100%" />
+</a>
+
 **Visual command center for multi-HQ AI content workflows**
 
 Baitermin Mission Control is a sci-fi inspired interactive AI HQ where specialized agents operate inside a visual station rather than a conventional SaaS dashboard.
 
 **Phase 1 is complete** with an interactive PixiJS station, pan/zoom, agent states and selection, a deterministic multi-stage mock mission, mission controls, analytics and visual polish. **Phase 2 is now in progress**, expanding the system toward reusable multi-HQ and durable mission architecture.
+
+[**View full showcase →**](https://github.com/Baitermin/Baitermin-Mission-Control-Showcase)
 
 **Tech**
 
