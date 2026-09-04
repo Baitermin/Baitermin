@@ -47,6 +47,8 @@ I enjoy building projects from the initial idea through UI, architecture and imp
   <img src="https://raw.githubusercontent.com/Baitermin/LevelRep-Showcase/Master/assets/levelrep-hero.svg" alt="LevelRep project preview" width="100%" />
 </a>
 
+**About:** Public showcase for a private, in-development iOS and Android fitness app. It highlights the product concept, completed Phase 1 foundation, tech stack and roadmap without exposing the private source code.
+
 **Cross-platform fitness app with adaptive training, progression and gamification**
 
 LevelRep is an iOS and Android fitness app built around the loop **Plan → Train → Measure → Adapt → Progress → Repeat**.
@@ -76,6 +78,8 @@ LevelRep is an iOS and Android fitness app built around the loop **Plan → Trai
 <a href="https://github.com/Baitermin/Baitermin-Mission-Control-Showcase">
   <img src="https://raw.githubusercontent.com/Baitermin/Baitermin-Mission-Control-Showcase/Master/assets/command-deck-overview.svg" alt="Baitermin Mission Control project preview" width="100%" />
 </a>
+
+**About:** Public showcase for a private AI workflow dashboard. It presents the Command Deck concept, agent roles, review queue, current progress and roadmap without exposing production code, credentials or sensitive runtime data.
 
 **Visual command center for multi-HQ AI content workflows**
 
